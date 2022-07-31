@@ -19,7 +19,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=graphicedit&show_icons=true&locale=en&layout=compact&theme=radical" alt="graphicedit" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=graphicedit&show_icons=true&locale=en" alt="graphicedit" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=graphicedit&show_icons=true&locale=en&theme=radical" alt="graphicedit" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=graphicedit&" alt="graphicedit" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=graphicedit&theme=radical" alt="graphicedit" /></p>
 
