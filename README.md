@@ -2,7 +2,7 @@
 <h3 align="center">A passionate game developer from planet earth</h3>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center"  src="https://github-profile-trophy.vercel.app/?username=graphicedit" alt="graphicedit" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center"  src="https://github-profile-trophy.vercel.app/?username=graphicedit&row=2&column=3" alt="graphicedit" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/graphicedit" target="blank"><img src="https://img.shields.io/twitter/follow/graphicedit?logo=twitter&style=for-the-badge" alt="graphicedit" /></a> </p>
 
