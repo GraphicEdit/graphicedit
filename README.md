@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Game artist and dev</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate game developer from planet earth</h3>
 
 
