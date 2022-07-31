@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://twitter.com/graphicedit" target="blank"><img src="https://img.shields.io/twitter/follow/graphicedit?logo=twitter&style=for-the-badge" alt="graphicedit" /></a> </p>
 
-- 🔭 I’m currently working on **Home**
+<p align="center"> - 🔭 I’m currently working on **Home** </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
