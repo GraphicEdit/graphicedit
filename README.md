@@ -8,7 +8,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=graphicedit&show_icons=true&locale=en&theme=radical&hide_border=true" alt="graphicedit" /></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=graphicedit&theme=radical&hide_border=true)](https://git.io/streak-stats)  
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=graphicedit&theme=radical&hide_border=true)]
 
 
