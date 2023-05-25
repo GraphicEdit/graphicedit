@@ -4,6 +4,5 @@
 
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=graphicedit&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="graphicedit" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=graphicedit&show_icons=true&locale=en&theme=radical&hide_border=true" alt="graphicedit" /></p>
