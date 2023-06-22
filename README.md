@@ -5,4 +5,4 @@
 
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=graphicedit&show_icons=true&locale=en&theme=radical&hide_border=true" alt="graphicedit" /></p>
+
